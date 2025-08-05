@@ -1,1 +1,1 @@
-# seinor-matrix
+# senior-matrix
